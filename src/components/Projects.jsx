@@ -5,7 +5,7 @@ import { ExternalLink } from "lucide-react";
 import { FaGithub } from "react-icons/fa";
 
 import careerquillImg from "../assets/careerquill.png";
-import flowmindImg from "../assets/flowmind.png";
+import flowmindImg from "../assets/profile101.png";
 import proctorlyImg from "../assets/proctorly.png";
 import hiremeImg from "../assets/hireme.png";
 
@@ -51,39 +51,27 @@ const projects = [
     ],
     github: "https://github.com/zelalem888/movie",
     live: "https://movie-swart-gamma.vercel.app/",
-    image: flowmindImg,
+    image: proctorlyImg,
     accent: "from-violet-400/40",
   },
   {
-    title: "Mortgage Calculator",
-    subtitle: "Mortgage",
+    title: "SAMI car rental",
+    subtitle: "car rental",
     description:
-      "This mortgage calculator estimates your monthly payments based on loan amount, interest rate, term, and down payment.",
+      "SAMI Car Rental System is a full-stack car rental management platform built using React for the frontend and Node.js with Express and MySQL for the backend.",
     highlights: [
     ],
     tech: [
       "React",
       "Tailwind",
       "Node.js",
+      "MySQL"
       
     ],
-    github: "https://github.com/zelalem888/mortgage-repayment-calculator",
-    live: "https://mortgage-repayment-calculator-sage-xi.vercel.app/",
-    image: proctorlyImg,
+    github: "https://github.com/zelalem888/car-rental-v2",
+    live: "https://github.com/zelalem888/car-rental-v2",
+    image: flowmindImg,
     accent: "from-amber-400/40",
-  },
-  {
-    title: "Tip Calculator",
-    subtitle: "Tip",
-    description:
-      "A simple and responsive tip calculator built with HTML, CSS, and vanilla JavaScript that calculates tip and total per person based on user input.",
-    highlights: [
-    ],
-    tech: ["React", "Node.js", "Express", "MongoDB"],
-    github: "https://github.com/zelalem888/tip-calculator",
-    live: "https://tip-calculator-amber-eight.vercel.app/",
-    image: hiremeImg,
-    accent: "from-cyan-400/40",
   },
 ];
 
