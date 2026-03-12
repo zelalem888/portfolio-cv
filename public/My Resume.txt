@@ -1,0 +1,32 @@
+Zelalem Legesse 
+addis ababa, Ethiopia 
++251931260114
+zlegesse9@gmail.com
+
+Experience
+Backend Developer 
+Naya shop house                   08/2024 - 01/2025
+Developed backend for full e-commerce platform with product, order, user, and payment management
+Implemented secure authentication/authorization and RESTful APIs
+Integrated file uploads, PDF generation, input validation, and optimized PostgreSQL database
+Full Stack Developer 
+Sami car rental                   09/2025 - 12/2025
+Developed a full-stack car rental management system using React.js, Express.js, and MySQL, implementing authentication, booking, and admin management features.
+Created RESTful APIs with Node.js, JWT, bcrypt, and MySQL2, ensuring secure user authentication and data handling.
+Designed responsive frontend interfaces using React, React Router, Zustand, Framer Motion, and Recharts for dynamic and user-friendly interaction.
+Implemented backend services including file uploads, PDF generation, validation, and email integration, following best practices for scalable web applications.
+Full Stack Developer 
+Dizz Blog.                   03/2025 - 05/2025
+Developed a modern full-stack blog platform using Next.js, Prisma, MongoDB, and NextAuth, following scalable web application architecture.
+Built an advanced post editor using TipTap, supporting rich text formatting, media uploads, and dynamic content rendering.
+Integrated cloud storage with Cloudinary and optimized database queries using Prisma ORM for performance and reliability.
+
+Skills
+JavaScript, TypeScript, React, Next.js, Node.js
+Express.js, MySQL, MongoDB, Prisma, REST APIs, NextAuth
+JWT, HTML, CSS, Git, Cloudinary, Zod, Framer Motion
+
+Education
+Debre Markos University                   Software Engineering  
+01/2026
+Completed internship at Commercial Bank of Ethiopia involving network configuration, hardware maintenance, and software system support
